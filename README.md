@@ -4,6 +4,9 @@ Motifs is a project originally made by Gautier Sire with [Processing](https://pr
 
 The point was to rewrite this project with [P5.js](https://p5js.org/) to learn this library and to enjoy generating patterns :D
 
+## Demo
+https://pochwar.github.io/Motifs/
+
 ## Usage
 
 Just clone/download the repository and open `index.html` in yout browser.
